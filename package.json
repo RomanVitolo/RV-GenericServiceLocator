@@ -16,7 +16,7 @@
   "samples": [
     {
       "displayName": "Samples",
-      "description": "",
+      "description": "Generic Locator Samples",
       "path" : "Samples~/ServiceLocatorSamples"
     }
   ],
