@@ -14,11 +14,7 @@
     {
       "displayName": "Samples",
       "description": "Generic Locator Samples",
-<<<<<<< Updated upstream
       "path" : "Samples~/ServiceLocatorSamples"
-=======
-      "path": "Samples~/ServiceLocatorSamples"
->>>>>>> Stashed changes
     }
   ],
   "author": {
