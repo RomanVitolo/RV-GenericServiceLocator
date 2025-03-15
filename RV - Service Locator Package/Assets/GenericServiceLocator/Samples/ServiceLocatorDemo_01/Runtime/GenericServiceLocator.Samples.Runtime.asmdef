@@ -1,0 +1,16 @@
+{
+    "name": "GenericServiceLocator.Samples.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa21f9052f890584ebe1c498260c12cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

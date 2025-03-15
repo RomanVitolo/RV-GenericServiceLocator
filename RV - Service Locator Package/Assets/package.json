@@ -1,0 +1,27 @@
+{
+  "name": "com.rv.servicelocatorpackage",
+  "version": "1.0.0",
+  "displayName": "Unity Generic Service Locator",
+  "description": "This is a Generic Service Locator package",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/RomanVitolo/RV-GenericServiceLocator",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "keywords": [
+    "library",
+    "utility",
+    "template"
+  ],
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "",
+      "path" : "Samples~"
+    }
+  ],
+  "author": {
+    "name": "Roman Vitolo",
+    "url": "https://romanvitolo.com"
+  }
+}
