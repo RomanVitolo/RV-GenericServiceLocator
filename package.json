@@ -14,7 +14,7 @@
     {
       "displayName": "Samples",
       "description": "Generic Locator Samples",
-      "path" : "Samples~/ServiceLocatorSamples"
+      "path" : "Samples~/ServiceLocatorSamples/"
     }
   ],
   "author": {
